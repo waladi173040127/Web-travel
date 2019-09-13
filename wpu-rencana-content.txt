@@ -2,5 +2,6 @@ Rencana konten WPU
 -javaScripts
    *ES6
    *FRAME 
-PHP
--mobil
+-OOP PHP
+-Laravel
+
