@@ -1,7 +1,11 @@
 Rencana konten WPU
 -javaScripts
    *ES6
-   *FRAME 
--OOP PHP
--Laravel
+   *FRAME
+PHP
+-pyton
+-laravel
+-GitHUB
+-mobil
+
 
